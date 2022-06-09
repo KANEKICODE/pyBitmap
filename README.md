@@ -1,2 +1,2 @@
 # pyBitmap
-proporciona una clase para bitmaps
+proporciona una clase para bitmaps en python
